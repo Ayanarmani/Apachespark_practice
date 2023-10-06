@@ -1,2 +1,2 @@
 # Apachespark_practice
-Just some random code to practice my spark knowledge
+It is easy to brush up a all of the basics apache spark topics.
