@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Dec 18 09:15:05 2019
-
-@author: Frank
-"""
 
 from pyspark import SparkContext
 from pyspark.streaming import StreamingContext
